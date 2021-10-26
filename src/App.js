@@ -5,7 +5,7 @@ import Memegenerator from "./components/Memegenerator"
 function App() {
   return (
     <div className="App">
-   <p>hi</p>
+   <p>Random Meme Generator!</p>
    <Memegenerator/>
     </div>
   );
